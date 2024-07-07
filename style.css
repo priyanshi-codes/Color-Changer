@@ -1,0 +1,30 @@
+.button{
+    height: 150px;
+    width: 120px;
+    border: 2px solid black;
+    display: inline-block;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#grey{
+    background-color: grey;
+}
+
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+#lavender{
+    background-color: rgb(223, 65, 220);
+}
+#red{
+    background-color: red;
+}
